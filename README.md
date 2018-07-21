@@ -18,6 +18,7 @@ Insight:
 
 TODO:
 - Add further exchanges, NEXT: Bitfinex, HitBTC
+- Use websockets
 - If profits are possible, implement automatic trading code
 - Consider order book quantities
 - API Call Rate Limits: Find way to increase API calls
