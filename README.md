@@ -19,5 +19,7 @@ Insight:
 TODO:
 - Add further exchanges, NEXT: Bitfinex, HitBTC
 - If profits are possible, implement automatic trading code
+- Consider order book quantities
 - API Call Rate Limits: Find way to increase API calls
 - Improve cross rate computation process in order to handle exchanges with higher number of currency pairs/base currencies dynamically (thether, btc, etc)
+
