@@ -5,7 +5,7 @@ Explore whether there are profit opportunities through triangular/cross-rate arb
 This type of arbitrage is a riskless profit that occurs when a quoted exchange rate does not equal the market's cross-exchange rate. It exploits an inefficiency in the market where one market is overvalued and another is undervalued. 
 
 ## Preliminary results
-The following graph plots the expected profit over time of buy_cross_sell_quote & buy_quote_sell_cross processes on the coinbase pro platform. Taker fee thresholds: Tier 1 = 0.1 %, Tier 2 = 0.2 %, Tier 3 = 0.3%
+The following graph plots the expected profit in percent over time of buy_cross_sell_quote & buy_quote_sell_cross processes on the coinbase pro platform. Taker fee thresholds: Tier 1 = 0.1 %, Tier 2 = 0.2 %, Tier 3 = 0.3%
 
 ![alt text](https://github.com/alpenmilch411/Triangular-Arbitrage/blob/master/triangular_profits.png)
 
